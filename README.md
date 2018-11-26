@@ -1,6 +1,6 @@
 # MIPT_CW_MPI
 
-Решение [контрольной работы](https://github.com/fufler/mipt-cs-samples/blob/master/exam.md) по MPI для студентов МФТИ.
+Пример решения [контрольной работы](https://github.com/fufler/mipt-cs-samples/blob/master/exam.md) вариант 1 по MPI для студентов МФТИ.
 
 ## Как запускать
 ### Предустановка программ
